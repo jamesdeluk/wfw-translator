@@ -4,7 +4,7 @@ A small Streamlit app for translating passages and showing a word-for-word break
 
 The live app can be tested at:
 
-https://wfwtranslator.streamlit.app/
+https://wfw-translator.streamlit.app/
 
 ## Local use
 
